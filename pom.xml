@@ -52,7 +52,7 @@
     <libphonenumber>8.9.0</libphonenumber>
     <lombok.version>1.16.20</lombok.version>
     <google.guava>24.0-jre</google.guava>
-    <jackson.version>2.9.4</jackson.version>
+    <jackson.version>2.10.0</jackson.version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <internal.repo.path>${basedir}/mvn-repo/</internal.repo.path>
